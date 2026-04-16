@@ -16,7 +16,7 @@ graph LR
 
 ## example
 
-<video src="output.mp4" controls width="600"></video>
+https://github.com/user-attachments/assets/22395e8c-7ce7-45cc-b795-a5fe54b15c5d
 
 ## this is a skeleton, it does not:
 - check if SD is full
